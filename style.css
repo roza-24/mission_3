@@ -26,7 +26,8 @@ body {
 /* --- AUTHENTICATION PAGES (LOGIN & REGISTER) --- */
 .auth-background {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=2070");
+    /* url("https://static.vecteezy.com/system/resources/thumbnails/008/440/572/small/abstract-red-speed-neon-light-effect-on-black-background-illustration-free-vector.jpg"); */
+      url("https://images.unsplash.com/photo-1616530940355-351fabd9524b?q=80&w=1935");
   background-size: cover;
   background-position: center;
   display: flex;
