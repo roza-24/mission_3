@@ -59,7 +59,7 @@ body {
 
 .input-group {
   margin-bottom: 20px;
-  padding: ;
+  position: relative;
 }
 
 .input-group label {
